@@ -1,0 +1,30 @@
+.inputDOM{
+    border: solid;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* margin:auto; */
+
+}
+
+.wrapperInputDOM{
+   /* margin: auto; */
+    width: 40em;
+}
+
+.entryTitle{
+    width: 40em;
+    padding: 1em;
+    margin: 1em;
+    /* margin:auto; */
+}
+.saveEntryButton{
+    width: 12em;
+    height: 4em;
+    margin: 2em;
+}
+
+.optionButton{
+    width: 12em;
+    height: 4em;
+    margin: 2em;
+}
