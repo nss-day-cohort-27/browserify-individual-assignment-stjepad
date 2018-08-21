@@ -26,10 +26,11 @@ const populatePlacesInputDOM = function () {
                 country: document.querySelector("#entryCountry").value,
                 year: document.querySelector("#entryYear").value,
                 textArea: document.querySelector("#entryTextArea").value,
-                continent: document.querySelector("#optionButton").value
-
+                continent: document.querySelector("#optionButton").value,
+                picture: document.querySelector("#entryPicture").value
 
             }
+
             // post to api
             dataManager.saveData(newEntry).then(() => {
 

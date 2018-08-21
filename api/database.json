@@ -1,66 +1,44 @@
 {
   "place": [
     {
-      "place": "meow",
-      "city": "meow",
-      "country": "meow",
-      "year": "meow",
-      "textArea": "meow",
+      "place": "",
+      "city": "Munster",
+      "country": "Germany",
+      "year": "2017",
+      "textArea": "Munster is rich with history throughout the ages. It has a gothic church where people that were to be \"punished by God\" in the early protestant days were tied above their heads in the open spire, and cut with knives that were heated until red. Then the birds would come and slowly peck the punished to death. They have a really great farmers market as well.",
+      "continent": "Europe",
+      "picture": "https://wonderfulwanderings.com/wp-content/uploads/2016/06/m%C3%BCnster-what-to-do.jpg",
+      "id": 1
+    },
+    {
+      "place": "",
+      "city": "St. Malo",
+      "country": "France",
+      "year": "2017",
+      "textArea": "St. Malo is a peninsula with a beach by day and an island by night. When the tide moves back in the early evening, it reaches half way up the city walls. I stayed in an airBnB with my fiancee that used to be a 6 story bar/ whorehouse for pirates.",
+      "continent": "Europe",
+      "picture": "https://images.adsttc.com/media/images/5a85/7d67/f197/ccbd/8c00/01de/newsletter/RWLNIEo2.jpg?1518697826",
       "id": 2
     },
     {
-      "place": "meow2",
-      "city": "meow2",
-      "country": "meow2",
-      "year": "meow2",
-      "textArea": "meow2",
-      "continent": "Africa",
+      "place": " Notre Dame",
+      "city": " Paris",
+      "country": "France",
+      "year": " 2017",
+      "textArea": " I touched the bell at Notre Dame! Paris is amazing!",
+      "continent": "Europe",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcixsJYULuXS4wqF_2SrzT-iJkJyhw_sALNbp7H1pduCQHQlh",
       "id": 3
     },
     {
-      "place": " sef",
-      "city": "srf ",
-      "country": " wf",
-      "year": " sdf",
-      "textArea": " sfe",
-      "continent": "Europe",
+      "place": "",
+      "city": " Cairo",
+      "country": " Egypt",
+      "year": " 2017",
+      "textArea": " I visited the Mosque of Amr, which is the first Mosque in Africa. Right next to it is a church (at least now it is) that Jesus and Mary stayed at for 2 months in exile. My best friend and I smoked hookah, went to museums, and visited the Pyramids. We watched mid-afternoon prayer from the highest minerat in Cairo: a city of 9 million all in prayer at once over loudspeaker. It felt like a sonic ocean was surrounding us.",
+      "continent": "Africa",
+      "picture": "http://zafigo.com/wp-content/uploads/2017/01/Cairo-Mosques.png",
       "id": 4
-    },
-    {
-      "place": " sdc",
-      "city": " sfr",
-      "country": " sdf",
-      "year": " sf",
-      "textArea": " safv",
-      "continent": "Europe",
-      "id": 5
-    },
-    {
-      "place": "1",
-      "city": "2",
-      "country": "3",
-      "year": "4",
-      "textArea": "5",
-      "continent": "Antartica",
-      "id": 6
-    },
-    {
-      "place": " 1",
-      "city": "2",
-      "country": "3",
-      "year": "4",
-      "textArea": " 5",
-      "continent": "Australia",
-      "id": 7
-    },
-    {
-      "place": "1223",
-      "city": "23e42",
-      "country": "323e4",
-      "year": "2314",
-      "textArea": "",
-      "continent": "North America>North America</option>\n                    <option value=",
-      "id": 8
     }
   ]
 }

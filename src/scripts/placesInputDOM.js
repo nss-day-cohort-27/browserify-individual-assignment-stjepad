@@ -12,7 +12,9 @@ const placesInputDOM = Object.create(null, {
                 document.querySelector("#entryTextArea").value = " "
 
                 document.querySelector("#optionButton").value = ""
-        }
+
+                document.querySelector("#entryPicture").value = ""
+            }
     },
 
     renderEntryForm: {
@@ -22,7 +24,7 @@ const placesInputDOM = Object.create(null, {
 
                 <div class = "inputDOM">
 
-                <input placeholder =" Place" required type="text" name="entryTitle" class= "entryTitle" id="entryPlace">
+                <input placeholder =" Place" required type="text" name="entryTitle" class= "entryTitle" id="entryPlace" >
 
                 <input placeholder =" City" required type="text" name="entryTitle" class= "entryTitle" id="entryCity">
 
@@ -37,13 +39,14 @@ const placesInputDOM = Object.create(null, {
                     <option value="Asia">Asia</option>
                     <option value="Australia">Australia</option>
                     <option value="Europe">Europe</option>
-                    <option value="North America>North America</option>
+                    <option value="North America">North America</option>
                     <option value="South America">South America</option>
                 </select>
 
                 <textarea placeholder =" What I loved" class= "entryTitle" id="entryTextArea" rows="12"></textarea>
 
-                <input placeholder =" Picture URL" required type="text" name="entryTitle" class= "entryTitle" id="entryTitle">
+
+                <input placeholder =" Picture URL" required type="text" name="entryTitle" class= "entryTitle" id="entryPicture">
 
                 <button class="saveEntryButton">Save </button>
 

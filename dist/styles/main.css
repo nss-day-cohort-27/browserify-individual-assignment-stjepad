@@ -1,30 +1,98 @@
 .inputDOM{
     border: solid;
-    flex-wrap: wrap;
-    flex-direction: row;
+    border-color:gray;
+    /* /* flex-wrap: wrap; */
+    /* flex-direction: row; */
     /* margin:auto; */
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 7px 10px 20px grey;
 }
 
 .wrapperInputDOM{
    /* margin: auto; */
     width: 40em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .entryTitle{
     width: 40em;
     padding: 1em;
     margin: 1em;
-    /* margin:auto; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 .saveEntryButton{
     width: 12em;
     height: 4em;
     margin: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 7px 10px 20px grey;
 }
 
 .optionButton{
     width: 12em;
     height: 4em;
     margin: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.entriesDOM {
+    border: solid;
+    /* margin: 1em; */
+    border-color:gray;
+    padding: 1em;
+    width:30em;
+    /* margin:auto; */
+    justify-content: center;
+    box-shadow: 7px 10px 20px grey;
+
+
+}
+
+.wrapper{
+    margin:1em;
+}
+
+#messageEntriesDOM{
+    display: flex;
+    /* display: inline; */
+    flex-wrap: right;
+    flex-wrap: wrap;
+    /* display: block; */
+    /* margin-left: auto;
+    margin-right: auto; */
+
+
+}
+
+.entryContent{
+    justify-content: center;
+    display: flex;
+}
+
+.deleteButton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+    height: 4em;
+    box-shadow: 7px 10px 20px grey;
+
+}
+
+.img{
+    width: 28em;
+    height:20em;
+    margin-left: 1em;
+    margin-right: 1em;
 }

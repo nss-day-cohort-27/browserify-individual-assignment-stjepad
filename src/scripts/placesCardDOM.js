@@ -8,12 +8,15 @@ return `
     <div class = "wrapper" >
         <div class = "entriesDOM">
 
-            <p class = "entryContent" id= "place--${data.id}">${data.place}</p>
+        <p class = "entryContent" id= "place--${data.id}">${data.place}</p>
+        <img class = "img" src="${data.picture}">
             <p class = "entryContent" id= "city--${data.id}">${data.city}</p>
             <p class = "entryContent" id= "country--${data.id}">${data.country}</p>
             <p class = "entryContent" id= "year--${data.id}">${data.year}</p>
             <p class = "entryContent" id= "continent--${data.id}">${data.continent}</p>
-            <p class = "entryContent" id= "textArea--${data.id}">${data.textArea}</p>
+            <p class = "entryPicture" id= "textArea--${data.id}">${data.textArea}</p>
+
+
 
             <button class = "deleteButton" id = "delete--${data.id}">Delete </Button>
         </div>
